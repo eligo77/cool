@@ -1,2 +1,6 @@
 Packing list
 trainers
+
+bike box
+bike
+goggles
