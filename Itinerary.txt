@@ -3,6 +3,6 @@ trainers
 
 bike box
 bike
-goggles
 
 new addition - tyres
+
