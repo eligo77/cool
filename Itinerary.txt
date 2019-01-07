@@ -4,6 +4,8 @@ trainers
 bike box
 bike
 
+add camera
+
 new addition - tyres
 
 water bottles
